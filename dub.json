@@ -3,7 +3,7 @@
 
     "targetName": "glad-drey",
 
-    "description": "No description",
+    "description": "This is an OpenGL function pointer loader generated with glad.",
 
     "authors": ["Andrej Mitrovic"],
 

@@ -1,6 +1,6 @@
 # glad-drey
 
-OpenGL function pointer loader generated with [glad].
+This is an OpenGL function pointer loader generated with [glad].
 
 ## Building
 
