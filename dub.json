@@ -1,5 +1,5 @@
 {
-	"name": "glad-drey",
+    "name": "glad-drey",
 
     "targetName": "glad-drey",
 
@@ -12,12 +12,13 @@
     "copyright": "Copyright © 2014, Andrej Mitrovic",
 
     "license": "BSL-1.0",
-
+    
     "configurations": [
-		{
-			"name": "glad-drey",
-			"targetType": "staticLibrary",
-			"targetPath": "bin",
-		},
-	]
+        {
+            "name": "glad-drey",
+            "targetType": "staticLibrary",
+            "targetPath": "bin",
+            "libs-posix": ["dl"]
+        },
+    ]
 }
